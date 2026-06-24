@@ -1,4 +1,4 @@
-# AlgoVision AI
+# AlgoVision AI (inspired by visualgo.net)
 
 ## Overview
 
